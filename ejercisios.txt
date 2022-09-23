@@ -1,0 +1,6 @@
+java -> back  (Spring boot)
+Dart -> front  (Lucifer)
+SQLite -> database (SQLite)
+
+LuSS
+
